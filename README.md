@@ -65,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Inspiration, code snippets, etc.
 
 ## Contact
-Created by [veg]([https://github.com/yourusername](https://github.com/vedategunduz)) - feel free to contact me!
+Created by [vedategunduz](https://github.com/vedategunduz) - feel free to contact me!
